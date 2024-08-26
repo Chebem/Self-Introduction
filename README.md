@@ -18,7 +18,7 @@ Creatively building beautiful, functional websites that provide a great user exp
 - **Tools:** Git, VS Code, Figma
 
 ## 📈 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Bembem&show_icons=true&theme=radical)
 
 ## 📫 Connect with Me
 - [LinkedIn](https://ng.linkedin.com/in/chebem-chukwuka-6a2a0313a)
