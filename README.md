@@ -6,7 +6,7 @@
 🛠️ **Backend Enthusiast:** Exploring databases and MySQL
 
 ## 🌐 About Me
-Creatively building beautiful, functional websites that provide a great user experience. From responsive layouts to interactive features, the aim is to bringing designs to life with clean, efficient code while enjoyig the journey
+Creatively building beautiful, functional websites that provide a great user experience. From responsive layouts to interactive features, the aim is to bring designs to life with clean, efficient code while enjoyig the journey
 
 - 🌱 I’m learning more about **React** and **Node.js**
 - 💬 Ask me about **Frontend Development**, **MySQL**, or **Web Design**
